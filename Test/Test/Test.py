@@ -5,9 +5,7 @@ import os
 import urllib.parse
 import uuid
 
-import adal
-import bottle
-import requests
+
 
 import config
 
