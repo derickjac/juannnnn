@@ -1,5 +1,5 @@
 from selenium import webdriver
-
+import facebook
 driver = webdriver.Chrome()
 
 driver.set_window_size(1024, 768)
